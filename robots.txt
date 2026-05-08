@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digizijn-machine.github.io/docs-chk4ix/sitemap.xml
